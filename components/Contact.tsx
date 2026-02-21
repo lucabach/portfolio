@@ -1,9 +1,9 @@
 import { FiMail } from "react-icons/fi";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 
-const EMAIL = "your.email@example.com"; // TODO: replace
-const LINKEDIN = "https://www.linkedin.com/in/yourprofile"; // TODO: replace
-const GITHUB = "https://github.com/lucabach"; // already known
+const EMAIL = "lucabachmann903@gmail.com"; 
+const LINKEDIN = "https://www.linkedin.com/in/luca-bachmann-0a25a4231"; 
+const GITHUB = "https://github.com/lucabach"; 
 
 export default function Contact() {
   return (
